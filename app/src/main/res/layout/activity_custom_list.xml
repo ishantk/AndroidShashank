@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.RecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:id="@+id/recylerView"
+    tools:context="com.auribises.session1.CustomListActivity">
+
+</android.support.v7.widget.RecyclerView>
+
+<!--<GridView xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--xmlns:app="http://schemas.android.com/apk/res-auto"-->
+<!--xmlns:tools="http://schemas.android.com/tools"-->
+<!--android:layout_width="match_parent"-->
+<!--android:layout_height="match_parent"-->
+<!--android:padding="16dp"-->
+<!--android:id="@+id/listView"-->
+<!--android:numColumns="auto_fit"-->
+<!--tools:context="com.auribises.session1.CustomListActivity">-->
+
+<!--</GridView>-->
+
+<!--<ListView xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--xmlns:app="http://schemas.android.com/apk/res-auto"-->
+<!--xmlns:tools="http://schemas.android.com/tools"-->
+<!--android:layout_width="match_parent"-->
+<!--android:layout_height="match_parent"-->
+<!--android:padding="16dp"-->
+<!--android:id="@+id/listView"-->
+<!--tools:context="com.auribises.session1.CustomListActivity">-->
+
+<!--</ListView>-->
